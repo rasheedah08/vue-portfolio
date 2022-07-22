@@ -72,6 +72,19 @@
             </div>
           </div>
         </div>
+         <div class="col d-flex justify-content-center">
+          <div class="box-testimonial 2" data-aos="fade-left">
+             <h3>Taucia Jackson</h3> 
+             <div class="row">
+               <div class="col-md-6">
+                 <img src="https://i.postimg.cc/W1dTNNSp/taucia-png.jpg" alt=""  class="img-fluid" width="60%">
+               </div>
+               <div class="col-md-6">
+                 <p  class="reference">Rasheeedah is a very hard working person, always focused and does her best in everything she gets. She is dedicated to finish every task and is always cheerful. - PEER</p>
+               </div>
+             </div>
+          </div>
+      </div>
         <div class="col d-flex justify-content-center">
           <div class="box-testimonial 2" data-aos="fade-left">
             <h3>Meagan Williams</h3>
@@ -95,6 +108,20 @@
             </div>
           </div>
         </div>
+        <div class="col d-flex justify-content-center">
+        <div class="box-testimonial 2" data-aos="fade-right">
+           <h3>Saleem Ariefdien</h3> 
+           <div class="row">
+             <div class="col-md-6">
+               <img src="https://i.postimg.cc/52BpFvss/Saleem.jpg"  alt="" width="60%"
+               class="img-fluid">
+             </div>
+             <div class="col-md-6">
+               <p  class="reference">Rasheedah is a  person who is always willing to lend a helping hand.  She works hard and always puts in 100% effort . She would be a good person to have at your company. - PEER</p>
+             </div>
+           </div>
+        </div>
+    </div>
       </div>
     </div>
   </div>

@@ -6,7 +6,7 @@
       <div class="row">
         <!-- Left contact page -->
         <div class="col-6 mx-auto">
-          <form id="contact-form" class="form-horizontal" role="form">
+          <form id="contact-form" class="form-horizontal" role="form" action="https://formspree.io/f/xpzbvjyz" method="POST">
             <div class="form-group">
               <div class="col-sm-12">
                 <input
@@ -92,7 +92,7 @@
             <hr />
             <ul class="social-media-list">
               <li>
-                <a href="#" target="_blank" class="contact-icon">
+                <a href="https://github.com/" target="_blank" class="contact-icon">
                   <i class="fa fa-github" aria-hidden="true"></i
                 ></a>
               </li>
@@ -157,11 +157,13 @@
 .form-control,
 textarea {
   max-width: 400px;
-  background-color: #000;
-  color: rgb(255, 248, 248);
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
   letter-spacing: 1px;
 }
-
+.form-control {
+  color: black;
+}
 .send-button {
   margin-top: 15px;
   height: 34px;
@@ -183,6 +185,10 @@ textarea {
   padding-bottom: 2px;
   font: 700 12px "Lato", sans-serif;
   letter-spacing: 2px;
+}
+
+input#email.form-control {
+  color: black !important;
 }
 
 .alt-send-button:hover {
@@ -304,7 +310,7 @@ hr {
 }
 
 form input {
-  color: white !important;
+  color: rgb(0, 0, 0) !important;
 }
 
 /* Begin Media Queries*/

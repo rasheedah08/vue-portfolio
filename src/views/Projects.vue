@@ -55,6 +55,30 @@
                 </div>
               </div>
             </div>
+            <div class="col-lg-6"> <!--1st side project -->
+              <div class="row"> 
+                <div class="col-sm-5 text-center">
+                  <h4 class="portfolio-projects--title">Property Listing</h4>
+                  <p class="portfolio-projects--desc">Uses: Javascript, CSS, Bootstrap</p>
+                  <a class="btn btn-rounded portfolio-projects--btn" href="https://friendly-jelly-2d0462.netlify.app/" role="button">View Project</a>
+                </div>
+                <div class="col-sm-7 text-center">
+                  <img class="portfolio-projects--image" src="https://i.postimg.cc/R0qJKJmk/Screenshot-2022-07-22-094957.png">
+                </div>
+              </div>
+            </div>
+             <div class="col-lg-6"> <!--1st side project -->
+              <div class="row"> 
+                <div class="col-sm-5 text-center">
+                  <h4 class="portfolio-projects--title">To-do List</h4>
+                  <p class="portfolio-projects--desc">Uses: Javascript, CSS, Bootstrap</p>
+                  <a class="btn btn-rounded portfolio-projects--btn" href="https://leafy-praline-16a476.netlify.app/" role="button">View Project</a>
+                </div>
+                <div class="col-sm-7 text-center">
+                  <img class="portfolio-projects--image" src="https://i.postimg.cc/J0Rp1QVw/Screenshot-2022-07-22-100022.png">
+                </div>
+              </div>
+            </div>
           </div><!--end Opposite Two project row-->
 
         </div>

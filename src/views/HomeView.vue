@@ -1,6 +1,7 @@
 <template>
   <section class="landing" id="landing">
-      <h2>Welcome to my Youtube channel</h2>
+      <h1>Hi, I'm Rasheedah Anhuizen</h1>
+      <h3>Aspiring Web Developer</h3>
   </section>
 </template>
 
@@ -47,11 +48,28 @@ p {
   /* display: flex;
   justify-content: center; */
 }
-.landing h2{
+.landing h1{
+  position: absolute;
+  top: 40%;
+  left:33%;
+  color: white;
+}
+
+.landing h3{
   position: absolute;
   top: 50%;
-  left:35%;
+  left:39%;
   color: white;
   
 }
+
+
+@media all and (max-width: 544px) {
+.landing h1{
+  font-size: 22px;
+  /* position: relative; */
+}
+
+}
+
 </style>

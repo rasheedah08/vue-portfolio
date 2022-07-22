@@ -2,7 +2,7 @@
   <div  class="container">
     <div class="row">
       <div class="about-content animated fadeIn scrollable">
-        <h1 class="animated fadeIn one">About myself</h1>
+        <h1 class="abtme">About myself</h1>
         <div
           class="about-me"
           style="transform: translateY(0px) translateZ(0px); margin-top: 20px"
@@ -316,6 +316,13 @@ p {
   /* z-index: 50; */
   width: 100%;
   height: 100%;
+}
+
+@media all and (max-width: 544px) {
+.abtme{
+  font-size: 32px;
+}
+
 }
 </style>
 
